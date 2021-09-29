@@ -1,0 +1,28 @@
+### Cadastrar produto
+POST https://localhost:5001/api/cliente/create
+Content-Type: application/json
+
+{
+    "Nome" : "Testando",
+    "CPF" : "123456789"
+    
+}
+
+### Listar produtos
+GET https://localhost:5001/api/cliente/list
+
+### Buscar produto pelo id
+GET https://localhost:5001/api/cliente/getbyid/1
+
+### Deletar produto pelo nome
+DELETE https://localhost:5001/api/cliente/delete/Testando
+
+### Alterar o produto inteiro
+PUT https://localhost:5001/api/cliente/update
+Content-Type: application/json
+
+{
+    
+    "Nome" : "Sucesso mermao"
+   
+}

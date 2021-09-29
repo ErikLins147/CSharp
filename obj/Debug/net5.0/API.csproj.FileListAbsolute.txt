@@ -1,0 +1,68 @@
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\bin\Debug\net5.0\appsettings.json
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\bin\Debug\net5.0\API.exe
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\bin\Debug\net5.0\API.deps.json
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\bin\Debug\net5.0\API.dll
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\bin\Debug\net5.0\ref\API.dll
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\bin\Debug\net5.0\API.pdb
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\obj\Debug\net5.0\API.dll
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\obj\Debug\net5.0\ref\API.dll
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\obj\Debug\net5.0\API.pdb
+C:\Users\T-Gamer\Desktop\testeee\VisualQuartaManha-master\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\Erik Lins\CSharp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Erik Lins\CSharp\bin\Debug\net5.0\appsettings.json
+C:\Users\Erik Lins\CSharp\bin\Debug\net5.0\API.exe
+C:\Users\Erik Lins\CSharp\bin\Debug\net5.0\API.deps.json
+C:\Users\Erik Lins\CSharp\bin\Debug\net5.0\API.runtimeconfig.json
+C:\Users\Erik Lins\CSharp\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\Users\Erik Lins\CSharp\bin\Debug\net5.0\API.dll
+C:\Users\Erik Lins\CSharp\bin\Debug\net5.0\ref\API.dll
+C:\Users\Erik Lins\CSharp\bin\Debug\net5.0\API.pdb
+C:\Users\Erik Lins\CSharp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Erik Lins\CSharp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Erik Lins\CSharp\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Erik Lins\CSharp\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Erik Lins\CSharp\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Erik Lins\CSharp\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Erik Lins\CSharp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Erik Lins\CSharp\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Erik Lins\CSharp\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Erik Lins\CSharp\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+C:\Users\Erik Lins\CSharp\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik Lins\CSharp\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\Erik Lins\CSharp\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\Erik Lins\CSharp\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Erik Lins\CSharp\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Erik Lins\CSharp\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Erik Lins\CSharp\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\Erik Lins\CSharp\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+C:\Users\Erik Lins\CSharp\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+C:\Users\Erik Lins\CSharp\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\Users\Erik Lins\CSharp\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\Erik Lins\CSharp\obj\Debug\net5.0\API.dll
+C:\Users\Erik Lins\CSharp\obj\Debug\net5.0\ref\API.dll
+C:\Users\Erik Lins\CSharp\obj\Debug\net5.0\API.pdb
+C:\Users\Erik Lins\CSharp\obj\Debug\net5.0\API.genruntimeconfig.cache
